@@ -1,0 +1,15 @@
+- name: MS in Management Information Systems
+  university: University of Arizona
+  location: Tucson, AZ
+  #more: with Thesis # Optional field, if you want to add a non-standard line.
+  #link: https://www.linkedin.com/in/karthikeya-reddy-vanguru/ # Optional field, include a link to your project.
+  date: 2023 - 2024
+  gpa: 3.90 / 4.00
+  #details: >
+    #Include details if you like to... 
+
+- name: BE in Mechanical Engineering
+  university: Osmania University
+  location: Hyderabad, India
+  date: 2016 - 2020
+  gpa : 3.90 / 4.00

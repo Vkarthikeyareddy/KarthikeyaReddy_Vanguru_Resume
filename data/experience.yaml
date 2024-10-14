@@ -1,0 +1,40 @@
+- company: Carelon Global Solutions
+  roles:
+    - role: Product Engineer
+      details: |
+        - Developed a new product line for the company.
+        - Worked with the marketing team to develop a marketing strategy.
+        - Managed a team of 5 engineers.
+      date: 09/2022 -  07/2023
+
+- company: Cognizant Technology Solutions
+  page: 1
+  roles: 
+    - role: Product Analyst
+      tools: SQL, Flink, Kafka
+      details: |
+        - Developed a new dashboard for the tracking the internal project
+        - Worked with cross-functional teams to develop a new product
+        - Conducted market research to identify new opportunities
+        - Introduced a new process that reduced the time to market by 20%
+      date: 11/2021 - 08/2022
+    
+    - role: Product Analyst Trainee
+      tools: HTML, PHP, CSS
+      date: 11/2020 - 10/2021
+      details: |
+        - Developed a new website for the company
+        - Trained in the basics of product management
+        - Developed a new process for tracking the progress of the project
+        - Developed automated reports for the management team
+
+- company: S3V Vascular Technologies
+  page: 1
+  roles:
+    - role: Product Management Intern
+      tools: C#, Python, Postgresql
+      details: |
+        - Worked on the development of architecture for the new product
+        - Built a customized elevator setup for the warehouse
+        - Introduced new process to reduce manual work by 30%
+      date: 06/2019 - 07/2019
